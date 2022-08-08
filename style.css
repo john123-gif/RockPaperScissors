@@ -615,3 +615,80 @@ body{
     }
 }
 
+@media only screen and (max-width: 500px){
+   .rock-original{
+    position: absolute;
+    left: 11.7rem;
+    top: 26rem;
+   } 
+   .paper-original{
+    left: 5.5rem;
+   }
+   .scissors-original{
+    left: 9.5rem;
+   }
+   .p1{margin: 0;}
+   .p2{margin: 0;}
+
+   .replay{
+    left: 6.5rem;
+   }
+
+}
+
+
+@media only screen and (max-width: 420px){
+    .rock-original{
+        position: absolute;
+        top: 26rem;
+        left: 9rem;
+    }
+    .scissors-original{
+        left: 7rem;
+    }
+    /******bonus*****/
+    .scissors-bonus{
+        left: 3.7rem;
+    }
+    .paper-bonus{
+        left: 4.2rem;
+    }
+    .rock-bonus{
+        left: 14rem;
+    }
+    .lizard-bonus{
+        left: 6rem;
+    }
+}
+
+@media only screen and (max-width: 375px){
+    .rock-original{
+        left: 7.8rem;
+    }
+    .paper-original{
+        left: 2.5rem;
+    }
+    .scissors-original{
+        left: 5rem;
+    }
+    /*****bonus*******/
+    .scissors-bonus{
+        left: 2.9rem;
+    }
+    .paper-bonus{
+        left: 3rem;
+    }
+    .spock-bonus{
+        left: 2.5rem;
+    }
+    .rock-bonus{
+        left: 13rem;
+    }
+    .lizard-bonus{
+        left: 4.5rem;
+    }
+    .replay{
+        left: 2.5rem;
+    }
+}
+
