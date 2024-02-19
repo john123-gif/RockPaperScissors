@@ -18,7 +18,7 @@ With this game player wins a point on each win, loses a point on each lose, and 
 Users should be able to:
 - View the optimal layout for the site depending on their device's screen size.
 
-###Links
+### Links
 Live Link Url:  https://john123-gif.github.io/RockPaperScissors/
 ## My process
 Developing this project had to begin with html and css. then used javaScript to render elements with thier respective styles based on user(player) and computer events.
